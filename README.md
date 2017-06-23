@@ -7,3 +7,6 @@ Very simple command-line PHP script to back up your flickr photographs
 1. Your API secret
 1. Your flickr User ID
 
+## Requirements
+
+PHP, Flickr API key, and https://github.com/dan-coulter/phpflickr
